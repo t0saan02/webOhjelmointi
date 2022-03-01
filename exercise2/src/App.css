@@ -1,0 +1,10 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.test {
+  background-color: rgb(50, 209, 10);
+}
